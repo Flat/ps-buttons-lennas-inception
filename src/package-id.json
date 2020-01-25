@@ -1,0 +1,9 @@
+{
+    "name": "PS Buttons",
+    "id": "ps-buttons",
+    "description": "Replaces the item backgrounds with the button corresponding to that item on the PlayStation controller scheme.",
+    "author": "Flat",
+    "authorWebsite": "https://github.com/Flat",
+    "versionNumber": "1.0",
+    "enabled": true
+}
